@@ -1,51 +1,31 @@
-# Brisa
-Final project for CS336: Web Dev where I compared CSR usage in JS/Angular projects vs SSR + CSR usage with Brisa
+# CS336 Final Project: Brisa
 
-Divided into what was the original assigment vs the brisa version!
-For /5 
-assmt5- 
-    open index.html 
+I compared **client-side rendering (CSR)** in JavaScript/Angular projects with **server-side rendering (SSR) + CSR** using Brisa.
+The repo is divided by original course assignments and their corresponding Brisa implementations.
 
-brisa-assmt5- 
-    after installing brisa,
-    run 'bun dev' or 'npm dev'
+### Assignment 5 (Pizza Ordering Webpage)
 
-For /11
-assmt11- 
-    run 'ng serve'
+    cd /assmt5
+    open index.html
 
-brisa-assmt11-
-    run 'bun dev' or 'npm dev'
+    cd /brisa-assmt5
+    # after installing Brisa,
+        run: bun dev or: npm run dev
 
-For /13
-assmt13-
-    run 'ng serve'
+### Assignment 11 (Contact Form)
 
-brisa-assmt13-
-    run 'bun dev' or 'npm dev'
+    cd /assmt11
+    ng serve
 
+    cd /brisa-assmt11
+    # after installing Brisa,
+        run: bun dev or: npm run dev
 
-Divided into what was the original assigment vs the brisa version!
+### Assignment 13 (Square Root Game)
 
-For /5 
-assmt5- 
-    open index.html 
+    cd /assmt13
+    ng serve
 
-brisa-assmt5- 
-    after installing brisa,
-    run 'bun dev' or 'npm dev'
-
-For /11
-assmt11- 
-    run 'ng serve'
-
-brisa-assmt11-
-    run 'bun dev' or 'npm dev'
-
-For /13
-assmt13-
-    run 'ng serve'
-
-brisa-assmt13-
-    run 'bun dev' or 'npm dev'
-
+    cd /brisa-assmt13
+    # after installing Brisa,
+        run: bun dev or: npm run dev
